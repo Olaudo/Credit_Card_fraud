@@ -4,7 +4,7 @@ Certainly! Below is a template for a GitHub README.md file for your credit card 
 
 # Credit Card Fraud Detector
 
-Welcome to the Credit Card Fraud Detector! This tool is designed to help identify potential fraudulent transactions within credit card data. Built with various python tools, this detector leverages machine learning to spot suspicious activities and protect users from financial losses.
+Welcome to the Credit Card Fraud Detector! This tool is designed to help identify potential fraudulent transactions within credit card data. Built with various python tools SQL, Logic Regression, this detector leverages machine learning to spot suspicious activities and protect users from financial losses.
 
 ## Features
 
