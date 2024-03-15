@@ -1,6 +1,4 @@
-Certainly! Below is a template for a GitHub README.md file for your credit card fraud detector:
 
----
 
 # Credit Card Fraud Detector
 
